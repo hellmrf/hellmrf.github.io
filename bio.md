@@ -105,10 +105,22 @@ Ao longo da minha vida, tive a programação e a Computação simultaneamente no
 ### Soft-skills
 Experiência cotidiana em:
 
-- Testes unitários
-- Benchmarks
-- Integração Contínua
-- Documentação
+- Desenvolvimento de Software
+    - Testes unitários
+    - Benchmarks
+    - Integração Contínua
+    - Documentação
+    - Interfaces Gráficas
+    - Scripting
+    - Instaladores
+    - Distribuição
+    - Entrega Contínua
+    - Packaging
+    - Git / Github
+- Trabalho em Equipe
+    - Já liderei equipes diversas;
+    - Já atuei em equipes de diversos tamanhos;
+    - Já atuei e coordenei em equipes fortemente interdisciplinares; 
 
 ## Contato
 
