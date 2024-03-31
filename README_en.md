@@ -6,4 +6,4 @@ He started his journey in programming out of curiosity when dial-up internet had
 
 In 2019, he started his Bachelor's degree in Chemistry at the Federal University of Minas Gerais (UFMG). He is currently part of the Laboratory of Computational Chemistry Applied to Drug Planning (LQCAPF) under the guidance of Prof. Dr. João Paulo Ataíde Martins.
 
-[Read more...](bio.md)
+[Read more...](/bio)

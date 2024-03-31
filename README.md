@@ -4,9 +4,9 @@
 
 
 <div style="text-align:center;">
-<a href="/bio.md">Sobre mim</a> &bull;
-<a href="/works.md">Trabalhos e Apresentações</a> &bull;
-<a href="/contact.md">Contato</a>
+<a href="/bio">Sobre mim</a> &bull;
+<a href="/works">Trabalhos e Apresentações</a> &bull;
+<a href="/contact">Contato</a>
 </div>
 
 

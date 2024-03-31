@@ -3,9 +3,9 @@
 <div style="text-align: center; border-radius: 150px;"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/25724069?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" /></div>
 
 <div style="text-align:center;">
-<a href="/bio.md"><b>Sobre mim</b></a> &bull;
-<a href="/works.md">Trabalhos e Apresentações</a> &bull;
-<a href="/contact.md">Contato</a>
+<a href="/bio"><b>Sobre mim</b></a> &bull;
+<a href="/works">Trabalhos e Apresentações</a> &bull;
+<a href="/contact">Contato</a>
 </div>
 
 ## Formação
