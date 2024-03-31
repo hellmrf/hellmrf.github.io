@@ -2,6 +2,12 @@
 
 <div style="text-align: center; border-radius: 150px;"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/25724069?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" /></div>
 
+<div style="text-align:center;">
+<a href="/bio.md"><b>Sobre mim</b></a> &bull;
+<a href="/works.md">Trabalhos e Apresentações</a> &bull;
+<a href="/contact.md">Contato</a>
+</div>
+
 ## Formação
 - Licenciando em Química ([UFMG](https://ufmg.br/), Atual);
 - Bacharel em Química Computacional ([UFMG](https://ufmg.br/), 2019-2023);
@@ -95,6 +101,7 @@ Ao longo da minha vida, tive a programação e a Computação simultaneamente no
 - [LaTeX](https://pt.wikipedia.org/wiki/LaTeX)
 - [C++](https://pt.wikipedia.org/wiki/C++)
 - [Typescript](https://www.typescriptlang.org/) / Javascript
+- [PHP](https://www.php.net/)
 - [MATLABⓇ](https://www.mathworks.com/products/matlab.html)
 
 ### Tenho conhecimento básico em
