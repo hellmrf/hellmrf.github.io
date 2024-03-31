@@ -24,4 +24,4 @@ Começou sua jornada na programação por curiosidade quando a internet discada 
 
 Em 2019, iniciou seu bacharelado em Química na Universidade Federal de Minas Gerais (UFMG). Atualmente, faz parte do Laboratório de Química Computacional Aplicada ao Planejamento de Fármacos (LQCAPF) sob a orientação do Prof. Dr. João Paulo Ataíde Martins.
 
-[Leia mais...](bio.md)
+[Leia mais...](/bio)
