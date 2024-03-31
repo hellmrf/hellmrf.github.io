@@ -1,7 +1,8 @@
 <div style="text-align:center;">
 <a href="/bio">Sobre mim</a> &bull;
 <a href="/works">Trabalhos e Apresentações</a> &bull;
-<a href="/contact"><b>Contato</b></a>
+<a href="/contact"><b>Contato</b></a> &bull;
+<a href="https://github.com/hellmrf">Github</a>
 </div>
 
 ## Contato

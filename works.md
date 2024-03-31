@@ -2,7 +2,8 @@
 <div style="text-align:center;">
 <a href="/bio">Sobre mim</a> &bull;
 <a href="/works"><b>Trabalhos e Apresentações</b></a> &bull;
-<a href="/contact">Contato</a>
+<a href="/contact">Contato</a> &bull;
+<a href="https://github.com/hellmrf">Github</a>
 </div>
 
 ## Resumos publicados em periódicos

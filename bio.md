@@ -5,7 +5,8 @@
 <div style="text-align:center;">
 <a href="/bio"><b>Sobre mim</b></a> &bull;
 <a href="/works">Trabalhos e Apresentações</a> &bull;
-<a href="/contact">Contato</a>
+<a href="/contact">Contato</a> &bull;
+<a href="https://github.com/hellmrf">Github</a>
 </div>
 
 ## Formação
