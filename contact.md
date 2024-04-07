@@ -1,12 +1,18 @@
+<script>location.href="https://hellmrf.dev.br/contato";</script>
+
+<div style="font-weight: bold; font-size: 24px; text-align: center;">
+    <p>⚠️ Este site foi movido para <a href="https://hellmrf.dev.br/">https://hellmrf.dev.br/</a>.</p>
+</div>
 <div style="text-align:center;">
-<a href="/bio">Sobre mim</a> &bull;
-<a href="/works">Trabalhos e Apresentações</a> &bull;
-<a href="/contact"><b>Contato</b></a> &bull;
+<a href="https://hellmrf.dev.br/bio">Sobre mim</a> &bull;
+<a href="https://hellmrf.dev.br/trabalhos">Trabalhos e Apresentações</a> &bull;
+<a href="https://hellmrf.dev.br/contato"><b>Contato</b></a> &bull;
 <a href="https://github.com/hellmrf">Github</a>
 </div>
 
 ## Contato
 
+- [Meu site (https://hellmrf.dev.br)](https://hellmrf.dev.br)
 - [Email](mailto:helitonmrf@gmail.com)
 - [Telegram](https://t.me/helitonmrf)
 - [Agendar reunião](https://calendly.com/helitonmrf)

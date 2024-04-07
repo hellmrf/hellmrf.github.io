@@ -1,8 +1,14 @@
+<script>location.href="https://hellmrf.dev.br/trabalhos";</script>
+
+<div style="font-weight: bold; font-size: 24px; text-align: center;">
+    <p>⚠️ Este site foi movido para <a href="https://hellmrf.dev.br/">https://hellmrf.dev.br/</a>.</p>
+</div>
+
 # Trabalhos e Apresentações
 <div style="text-align:center;">
-<a href="/bio">Sobre mim</a> &bull;
-<a href="/works"><b>Trabalhos e Apresentações</b></a> &bull;
-<a href="/contact">Contato</a> &bull;
+<a href="https://hellmrf.dev.br/bio">Sobre mim</a> &bull;
+<a href="https://hellmrf.dev.br/trabalhos"><b>Trabalhos e Apresentações</b></a> &bull;
+<a href="https://hellmrf.dev.br/contato">Contato</a> &bull;
 <a href="https://github.com/hellmrf">Github</a>
 </div>
 

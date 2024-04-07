@@ -1,11 +1,17 @@
+<script>location.href="https://hellmrf.dev.br/bio";</script>
+
+<div style="font-weight: bold; font-size: 24px; text-align: center;">
+    <p>⚠️ Este site foi movido para <a href="https://hellmrf.dev.br/">https://hellmrf.dev.br/</a>.</p>
+</div>
+
 # Heliton Martins (@hellmrf)
 
 <div style="text-align: center; border-radius: 150px;"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/25724069?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" /></div>
 
 <div style="text-align:center;">
-<a href="/bio"><b>Sobre mim</b></a> &bull;
-<a href="/works">Trabalhos e Apresentações</a> &bull;
-<a href="/contact">Contato</a> &bull;
+<a href="https://hellmrf.dev.br/bio"><b>Sobre mim</b></a> &bull;
+<a href="https://hellmrf.dev.br/trabalhos">Trabalhos e Apresentações</a> &bull;
+<a href="https://hellmrf.dev.br/contato">Contato</a> &bull;
 <a href="https://github.com/hellmrf">Github</a>
 </div>
 
